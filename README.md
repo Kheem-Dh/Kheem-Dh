@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Kheem Dharmani
-- 👀 I’m interested in Website Developement
-- 🌱 I’m currently learning Flutter
+- 👋 Hi, I’m Kheem Parkash Dharmani
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently doing MS in Data Sciences
 - 💞️ I’m looking to collaborate on freelancing projects.
 - 📫 How to reach me dharmanikheem@gmail.com 
 
