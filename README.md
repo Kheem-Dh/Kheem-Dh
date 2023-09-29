@@ -3,15 +3,11 @@
 <table>
   <tr>
     <td valign="center">
-      👋 Welcome to my LinkedIn profile! I'm Kheem Dharmani, a passionate Machine Learning Engineer with a strong emphasis on Natural Language Processing (NLP).
       🧠 My academic journey includes pursuing a Master's Degree in Data Science at NUCES, Islamabad Campus, where I developed a strong foundation in machine learning techniques, statistics, and mathematics, with a particular focus on harnessing the power of NLP for cutting-edge applications.
       🌱 I am proficient in various programming languages, with a strong command of **Python**, and have extensive experience in **Machine Learning** and **Deep Learning**.
       🚀 I've worked as an **ML Engineer**, specializing in remote work arrangements, where I honed my skills in solving complex challenges and driving innovation in the field.
       🧬 My research journey has led me to explore groundbreaking projects in the field. Currently, my focus is on the development of an automated radiology report generation system for lung cancer, using the MIMIC CXR dataset.
       🔍 My goal is to improve the accuracy, efficiency, and interpretability of automated radiology report generation by pioneering a hybrid deep learning model that integrates Vision Transformers and Language Models.
-      💡 To achieve this goal, I'm pre-training a large language model on radiology and lung cancer literature to enhance its relevance and precision in generating tailored reports.
-      📊 Evaluation will be rigorous, employing metrics such as BLUE score, ROUGE, and interpretability, while benchmarking against existing state-of-the-art approaches in medical report generation.
-      🏥 Ultimately, my research strives to advance the field of automated radiology report generation, with a primary focus on improving patient care and outcomes for lung cancer patients.
       🚀 Outside of my research, I remain an avid learner, keeping pace with the latest AI and ML developments. I firmly believe in the transformative power of continuous learning in our fast-evolving field.
 <td>
 # Connect with me on LinkedIn:
