@@ -1,8 +1,26 @@
-- 👋 Hi, I’m Kheem Parkash Dharmani
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently doing MS in Data Sciences
-- 💞️ I’m looking to collaborate on freelancing projects.
-- 📫 How to reach me dharmanikheem@gmail.com 
+# Hi, I'm Kheem Dharmani 👋
+
+<table>
+  <tr>
+    <td valign="center">
+      👋 Welcome to my LinkedIn profile! I'm Kheem Dharmani, a passionate Machine Learning Engineer with a strong emphasis on Natural Language Processing (NLP).
+      🧠 My academic journey includes pursuing a Master's Degree in Data Science at NUCES, Islamabad Campus, where I developed a strong foundation in machine learning techniques, statistics, and mathematics, with a particular focus on harnessing the power of NLP for cutting-edge applications.
+      🌱 I am proficient in various programming languages, with a strong command of **Python**, and have extensive experience in **Machine Learning** and **Deep Learning**.
+      🚀 I've worked as an **ML Engineer**, specializing in remote work arrangements, where I honed my skills in solving complex challenges and driving innovation in the field.
+      🧬 My research journey has led me to explore groundbreaking projects in the field. Currently, my focus is on the development of an automated radiology report generation system for lung cancer, using the MIMIC CXR dataset.
+      🔍 My goal is to improve the accuracy, efficiency, and interpretability of automated radiology report generation by pioneering a hybrid deep learning model that integrates Vision Transformers and Language Models.
+      💡 To achieve this goal, I'm pre-training a large language model on radiology and lung cancer literature to enhance its relevance and precision in generating tailored reports.
+      📊 Evaluation will be rigorous, employing metrics such as BLUE score, ROUGE, and interpretability, while benchmarking against existing state-of-the-art approaches in medical report generation.
+      🏥 Ultimately, my research strives to advance the field of automated radiology report generation, with a primary focus on improving patient care and outcomes for lung cancer patients.
+      🚀 Outside of my research, I remain an avid learner, keeping pace with the latest AI and ML developments. I firmly believe in the transformative power of continuous learning in our fast-evolving field.
+<td>
+# Connect with me on LinkedIn:
+      <a href="[https://www.linkedin.com/in/kheemdharmani](https://www.linkedin.com/in/kheem-parkash-dharmani-74b8641b1/)"><img src="https://img.shields.io/badge/-Kheem%20Dharmani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kheemdharmani" alt="LinkedIn"/></a>
+# Explore my AI projects on GitHub:
+      <a href="[https://github.com/yourgithubusername](https://github.com/Kheem-Dh)"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/yourgithubusername" alt="GitHub"/></a>
+    </td>
+  </tr>
+</table>
 
 <!---
 Kheem-Dh/Kheem-Dh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
