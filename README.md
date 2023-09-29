@@ -10,11 +10,11 @@
 
 🚀 Beyond my research, I'm a dedicated learner, staying abreast of the latest developments in AI and ML. I firmly believe in the transformative power of continuous learning in our ever-evolving field.
 
-#### Connect with me on LinkedIn:
-<a href="https://www.linkedin.com/in/kheem-parkash-dharmani-74b8641b1/"><img src="https://img.shields.io/badge/-Kheem%20Dharmani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kheem-parkash-dharmani-74b8641b1/" alt="LinkedIn"/></a>
+### Connect with me on LinkedIn:
+[![LinkedIn](https://img.shields.io/badge/-Kheem%20Dharmani-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kheem-parkash-dharmani-74b8641b1/)
 
-#### Explore my AI projects on GitHub:
-<a href="https://github.com/Kheem-Dh"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/Kheem-Dh" alt="GitHub"/></a>
+### Explore my AI projects on GitHub:
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/Kheem-Dh)
 
 
 <!---
