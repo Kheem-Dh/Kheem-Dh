@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kheem-dh" alt="kheem-dh" /></a> </p>
 
-- 🔭 I’m currently working as an Machine Learning Engineer at Clpus Soft, Islamabad.
+- 🔭 I’m currently working as an **Machine Learning Engineer** at **Clpus Soft, Islamabad**.
 
 - 🌱 I’m currently learning **Generative AI,** **PyTorch,** **and MLOps**
 
