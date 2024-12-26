@@ -19,7 +19,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[[https://www.linkedin.com/in/kheemparkashdharmani/](https://www.linkedin.com/in/kheemparkashdharmani/)](https://www.linkedin.com/in/kheemparkashdharmani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kheem-parkash-dharmani-74b8641b1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kheemparkashdharmani/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kheem-parkash-dharmani" height="30" width="40" />
+</a>
 <a href="https://stackoverflow.com/users/users/15441185/kheemdharmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15441185/kheemdharmani" height="30" width="40" /></a>
 <a href="https://kaggle.com/kheemdharmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kheemdharmani" height="30" width="40" /></a>
 <a href="https://instagram.com/kheemdharmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kheemdharmani" height="30" width="40" /></a>
