@@ -5,25 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kheem-dh" alt="kheem-dh" /></a> </p>
 
-- 🔭 I’m currently working as an **Machine Learning Engineer** at **Clpus Soft, Islamabad**.
+- 🔭 I’m currently working as an **Machine Learning Engineer**.
 
 - 🌱 I’m currently learning **Generative AI,** **PyTorch,** **and MLOps**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kheem-Dh?tab=repositories](https://github.com/Kheem-Dh?tab=repositories)
-
-- 💬 Ask me about **Data Science**
+- 💬 Ask me about **Generative AI**
 
 - 📫 How to reach me **dharmanikheem@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hbofLb7mITj54OmatgmxIckfs3WbzQ4t/view?usp=sharing](https://drive.google.com/file/d/1hbofLb7mITj54OmatgmxIckfs3WbzQ4t/view?usp=sharing)
 
 - ⚡ Fun fact **I'm such an NLP enthusiast that I once had a conversation with my chatbot creation that left even the AI lost for words! 🤖🗣️ #NLPGeek**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kheem-parkash-dharmani-74b8641b1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kheem-parkash-dharmani-74b8641b1" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/kheem-parkash-dharmani-74b8641b1](https://www.linkedin.com/in/kheemparkashdharmani/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kheem-parkash-dharmani-74b8641b1" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/users/15441185/kheemdharmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/15441185/kheemdharmani" height="30" width="40" /></a>
 <a href="https://kaggle.com/kheemdharmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kheemdharmani" height="30" width="40" /></a>
 <a href="https://instagram.com/kheemdharmani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kheemdharmani" height="30" width="40" /></a>
