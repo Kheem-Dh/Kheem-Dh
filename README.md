@@ -95,9 +95,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheem-dh&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheem-dh&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kheem-dh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheem-dh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
