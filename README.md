@@ -99,9 +99,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheem-dh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kheem-dh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kheem-dh&theme=tokyonight" alt="GitHub Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kheem-dh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
