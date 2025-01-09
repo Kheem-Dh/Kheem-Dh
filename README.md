@@ -101,3 +101,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kheem-Dh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api?username=Kheem-Dh&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+</p>
