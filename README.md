@@ -103,5 +103,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-contribution-stats.vercel.app/api?username=Kheem-Dh&theme=tokyonight&border_radius=5" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DenverCoder1"/></a>
 </p>
