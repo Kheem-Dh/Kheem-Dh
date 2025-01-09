@@ -101,7 +101,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kheem-Dh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kheem-Dh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Kheem-Dh&theme=vue-dark&exclude_days=Sun" alt="GitHub Streak" /></a>
 </p>
